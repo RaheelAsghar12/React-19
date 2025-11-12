@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "id": "ac03",
+      "name": "Raheel",
+      "email": "raheel@gmail.com",
+      "age": "22"
+    },
+    {
+      "id": "caf3",
+      "name": "Farhan",
+      "email": "farhan@gmail.com",
+      "age": "25"
+    }
+  ]
+}
